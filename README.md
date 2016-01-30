@@ -1,23 +1,24 @@
-##HackaTruck
-beLang
+#HackaTruck
 
-Projeto desenvolvido no projeto HackaTruck
+##beLang ##
 
-Grande Ideia: as pessoas podem escolher uma língua para mostrar coisas referentes aquela língua. As pessoas podem realizar o updote e downvote de fotos, além de realizar comentário nas fotos.
+###Projeto desenvolvido no projeto HackaTruck ###
 
-Questão essencial: Auxiliar as pessoas que tem pouco tempo no aprendizado de uma nova língua.
+###Grande Ideia: ### as pessoas podem escolher uma língua para mostrar coisas referentes aquela língua. As pessoas podem realizar o updote e downvote de fotos, além de realizar comentário nas fotos.
 
-Desafio: O aprendizado de uma nova língua de uma maneira diferente.
+###Questão essencial: ### Auxiliar as pessoas que tem pouco tempo no aprendizado de uma nova língua.
 
-Questões guias: 
+###Desafio: ### O aprendizado de uma nova língua de uma maneira diferente.
+
+###Questões guias: ###
 - Você tem interesse no aprendizado de línguas?
 - Quais línguas você conhece?
 - Quanto tempo diariamente você gostaria de dedicar ao estudo de línguas?
 
 
-Solução:Agregador de conteúdo com o objetivo de ajudar no aprendizado de um novo idioma.
+###Solução:### Agregador de conteúdo com o objetivo de ajudar no aprendizado de um novo idioma.
 
-Feature principal: 
+###Feature principal: ###
 - Login com Facebook;
 - Timeline;
 - Post;
